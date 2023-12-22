@@ -1,7 +1,7 @@
-
-# MagicPro App 
-
 ![Magig Pro Mockup](https://github.com/islammegdoude/magicpro/assets/78706966/2de39885-fa74-4cf8-b6b6-3cf8ee349ebf)
+
+# MagicPro Admin App 
+
 
 ✨ MagicPro Admin is the backend powerhouse for your cosmetic e-commerce venture. Harness its RESTful API, robust inventory management, order processing, and real-time analytics capabilities. This admin interface provides developers the tools needed for efficient business control and growth in the competitive beauty market. Get ready to code success into your business infrastructure!
 
@@ -27,9 +27,12 @@
 | Edite Product Screen | Edite Product Screen |
 | [![Screenshot_1703245695](https://github.com/islammegdoude/magicpro/assets/78706966/096a64e3-976b-4dcc-a3d6-b9b174d609e2)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703245689](https://github.com/islammegdoude/magicpro/assets/78706966/06fccb4d-fbc5-4e97-ab3c-6d553305528c)](https://github.com/islammegdoude/magicpro) |
 
-## Screenshots for user app : 
 
-## Additional Screenshots
+# MagicPro Admin App
+
+🚀 Welcome to MagicPro, the ultimate cosmetic shopping app! Dive into our API-powered platform that seamlessly fetches personalized product recommendations, and offers a sleek, intuitive UI/UX for an engaging shopping experience.
+
+## Screenshots for user app : 
 
 | Splash Screen | Login Screen |
 |---------|---------|
