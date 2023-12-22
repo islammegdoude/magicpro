@@ -31,14 +31,14 @@
 
 ## Additional Screenshots
 
-| Image 7 | Image 8 |
+| Splash Screen | Login Screen |
 |---------|---------|
 | [![Screenshot_1703245143](https://github.com/islammegdoude/magicpro/assets/78706966/33c77033-393c-4231-9dd0-e28e2978d02e)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703245149](https://github.com/islammegdoude/magicpro/assets/78706966/c21eea89-c5ca-482f-bc57-dce271130be0)](https://github.com/islammegdoude/magicpro) |
-| Image 9 | Image 10 |
+| Register | Forgot Password |
 | [![Screenshot_1703245154](https://github.com/islammegdoude/magicpro/assets/78706966/b869b164-be93-4bb4-a8e4-1bf04457f90c)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703245340](https://github.com/islammegdoude/magicpro/assets/78706966/86f29e6f-82b2-47dc-b1ef-ef5e1e32a993)](https://github.com/islammegdoude/magicpro) |
-| Image 11 | Image 12 |
+| Recovery Password | Home Screen |
 | [![Screenshot_1703245381](https://github.com/islammegdoude/magicpro/assets/78706966/3d35bbcc-e403-4d99-b31c-baf2568a0ae3)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259215](https://github.com/islammegdoude/magicpro/assets/78706966/65619067-83ff-41ff-a457-0c8500d518ab)](https://github.com/islammegdoude/magicpro) |
-| Image 13 | Image 14 |
+| Add to Card | Image 14 |
 | [![Screenshot_1703259230](https://github.com/islammegdoude/magicpro/assets/78706966/e55915d7-3c27-4430-9f52-2e8fb6d19f20)](https://github.com/islammegdoude/magicpro) | |
 | Image 1 | Image 2 |
 | [![Screenshot_1703259240](https://github.com/islammegdoude/magicpro/assets/78706966/5c17fdce-800d-465d-820f-9543a3a9024f)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259265](https://github.com/islammegdoude/magicpro/assets/78706966/f0694fa3-012f-420f-b3b8-942ae59218bd)](https://github.com/islammegdoude/magicpro) |
