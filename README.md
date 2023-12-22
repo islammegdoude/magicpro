@@ -39,12 +39,12 @@
 | Recovery Password | Home Screen |
 | [![Screenshot_1703245381](https://github.com/islammegdoude/magicpro/assets/78706966/3d35bbcc-e403-4d99-b31c-baf2568a0ae3)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259215](https://github.com/islammegdoude/magicpro/assets/78706966/65619067-83ff-41ff-a457-0c8500d518ab)](https://github.com/islammegdoude/magicpro) |
 | Add to Card | Product Details |
-| [![Screenshot_1703259230](https://github.com/islammegdoude/magicpro/assets/78706966/e55915d7-3c27-4430-9f52-2e8fb6d19f20)](https://github.com/islammegdoude/magicpro) | | [![Screenshot_1703259240](https://github.com/islammegdoude/magicpro/assets/78706966/5c17fdce-800d-465d-820f-9543a3a9024f)](https://github.com/islammegdoude/magicpro) |
-| Image 1 | Image 2 |
+| [![Screenshot_1703259230](https://github.com/islammegdoude/magicpro/assets/78706966/e55915d7-3c27-4430-9f52-2e8fb6d19f20)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259240](https://github.com/islammegdoude/magicpro/assets/78706966/5c17fdce-800d-465d-820f-9543a3a9024f)](https://github.com/islammegdoude/magicpro) |
+| Favorites Screen | Card Screen |
 | [![Screenshot_1703259265](https://github.com/islammegdoude/magicpro/assets/78706966/f0694fa3-012f-420f-b3b8-942ae59218bd)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259286](https://github.com/islammegdoude/magicpro/assets/78706966/5daa07f7-9ce4-4d1c-9176-b0d6ae5ab132)](https://github.com/islammegdoude/magicpro) |
-| Image 3 | Image 4 |
+| Orders Screen | Profile Informations and Logout |
 | [![Screenshot_1703259295](https://github.com/islammegdoude/magicpro/assets/78706966/3b13e7f1-5b2f-4228-a033-d2e07443c746)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703259311](https://github.com/islammegdoude/magicpro/assets/78706966/a9b86602-e5d6-42ea-8f2e-eb8b01269628)](https://github.com/islammegdoude/magicpro) |
-| Image 5 |
+| Search Screen |
 | [![Screenshot_1703259356](https://github.com/islammegdoude/magicpro/assets/78706966/c43ee675-a47b-477e-9157-94a5d6501e56)](https://github.com/islammegdoude/magicpro) |
 
 
