@@ -27,6 +27,13 @@
 | Image 17 | Image 18 |
 | [![Screenshot_1703245695](https://github.com/islammegdoude/magicpro/assets/78706966/096a64e3-976b-4dcc-a3d6-b9b174d609e2)](https://github.com/islammegdoude/magicpro) | [![Screenshot_1703245689](https://github.com/islammegdoude/magicpro/assets/78706966/06fccb4d-fbc5-4e97-ab3c-6d553305528c)](https://github.com/islammegdoude/magicpro) |
 
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | ![#E74646](https://via.placeholder.com/10/E74646?text=+) #E74646 |
+| Secondary Color | ![#FA9884](https://via.placeholder.com/10/FA9884?text=+) #FA9884 |
+
 
 
 ## FAQ
