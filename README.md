@@ -45,16 +45,19 @@ MagicPro apps are developed using Flutter, a powerful and versatile UI toolkit. 
 
 The MagicPro backend is built on Node.js with Express.js, offering a robust and scalable server environment. MongoDB serves as the database, ensuring flexibility and efficiency in handling data for the cosmetics platform.
 
-#### 5. What features does MagicPro offer to clients?
+#### 5. How are notifications handled in MagicPro?
+MagicPro utilizes Firebase Cloud Messaging (FCM) to send real-time notifications to administrators whenever a user makes a new order. This feature ensures prompt updates for administrators, enhancing order management efficiency.
+
+#### 6. What features does MagicPro offer to clients?
 
 MagicPro offers personalized product recommendations, a diverse collection of cosmetics, detailed product descriptions, and a user-friendly interface for effortless browsing and purchasing.
 
-#### 6. What functionalities are available in MagicPro Admin?
+#### 7. What functionalities are available in MagicPro Admin?
 
 MagicPro Admin empowers administrators with features like inventory management, order processing, real-time analytics, customer relationship management tools, and the ability to manage promotions and product listings.
 
 
-#### 7. Is MagicPro customizable for different businesses?
+#### 8. Is MagicPro customizable for different businesses?
 
 Yes, MagicPro is built with flexibility in mind. Developers can easily customize aspects like product categories, branding elements, and promotional features to suit diverse business models.
 
@@ -70,8 +73,22 @@ To deploy this project run
 
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+Xcode	![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
