@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![Screenshot_1703245143](https://github.com/islammegdoude/magicpro/assets/78706966/0206b4b5-3fb3-403c-91ec-2aadfaf7347f =400x250)
+![Screenshot_1703245143](https://github.com/islammegdoude/magicpro/assets/78706966/0206b4b5-3fb3-403c-91ec-2aadfaf7347f=400x250)
 
 
 
