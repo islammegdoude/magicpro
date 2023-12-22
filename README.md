@@ -71,13 +71,19 @@ MagicPro Admin empowers administrators with features like inventory management, 
 Yes, MagicPro is built with flexibility in mind. Developers can easily customize aspects like product categories, branding elements, and promotional features to suit diverse business models.
 
 
-## Deployment
+## Features
 
-To deploy this project run
+- Light/dark mode toggle
+- FR/EN Languages
+- Web dashboard for admins
+- Statistics
 
-```bash
-  npm run deploy
-```
+
+## Tech Stack
+
+**Client:** Flutter(Bloc), FCM
+
+**Server:** Node, Express, MongoDB, SMTP(Gmail)
 
 
 ## Badges
@@ -85,9 +91,11 @@ To deploy this project run
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 
+## Support
+
+For support, email islam.megdoude@gmail.com or contact me in my social media.
+
 ## Authors
 
 - [@islammegdoude](https://www.github.com/islammegdoude)
 
-
-- [@aymanbbn](https://github.com/aymen-bnn)
